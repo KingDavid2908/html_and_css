@@ -1,0 +1,57 @@
+body{
+    color: aliceblue;
+    background-color: hsl(0, 100%, 74%);
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    width: 80%;
+}
+
+text_text{
+    font-weight: 400;
+    width: 100%;
+}
+
+.design{
+    width: 100%;
+}
+
+.text{
+    width: 35%;
+    float: left;
+    margin: 15% 5%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.registration{
+    width: 40%;
+    float: left;
+    margin-right: 10%;
+}
+
+.advert {
+    width: 100%;
+    text-align: center;
+    padding: 2px;
+    margin: 20px;
+    font-weight: 600;
+}
+
+input {
+    border-color: hsl(0, 100%, 74%);
+    width: 90%;
+    float: none;
+    padding: 12px 20px;
+    margin: 5% 5%;
+}
+
+.input_class {
+    margin: 0% 5%;
+    width: 100%;
+}
